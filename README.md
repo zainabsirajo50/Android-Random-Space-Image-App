@@ -1,16 +1,16 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
+# AND101 Project 7 - CYOAPI Part 3: Beautified
 
 Submitted by: **Zainab Sirajo**
 
-Time spent: **15** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
-**Random Space Image** is an android app that **uses the NASA APOD API to display astronomy images as well as their descriptions**
+**Random Space Image** is an android app that takes information from NASA's APOD API and displays it using a RecyclerView****
 
-If I had to describe this project in three (3) emojis, they would be: **😡 😒 🫠**
+If I had to describe this project in three (3) emojis, they would be: **😠 🫣 🥳**
 
 ## Application Features
 
@@ -18,15 +18,16 @@ If I had to describe this project in three (3) emojis, they would be: **😡 �
 
 The following REQUIRED features are completed:
 
-- [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Implement a RecyclerView to display a list of entries from the API
-- [x] Display at least three (3) pieces of data for each RecyclerView item
+- [x] App contains a RecyclerView that displays a list of scrollable data
+- [x] App displays at least two (2) pieces of data for each RecyclerView item
+- [x] Use a downloadable font with custom color and size
+- [x] Modify the theme of the app in `themes.xml`
+- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
 
 The following EXTRA features are implemented:
 
@@ -36,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![Kapture 2023-04-09 at 02 54 13](https://user-images.githubusercontent.com/75146677/230759035-e1aef8fc-c29c-46c3-aef2-b85948da7079.gif)
+![Unit 7 Gif](https://user-images.githubusercontent.com/75146677/232127332-08a4d0ea-398f-4303-a07b-1bfc6b1a4470.gif)
 
 
 GIF created with **KAP**
