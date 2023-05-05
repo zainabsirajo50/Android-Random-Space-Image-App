@@ -14,7 +14,7 @@ The following features are completed:
 - [x] App displays two (2) pieces of data for each RecyclerView item
 - [x] Use a downloadable font with custom color and size
 - [x] Displays a **TOAST** message when each image is clicked
-- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
+- [x] Define and apply at least one style in `themes.xml` 
 
 ## Video Demo
 
