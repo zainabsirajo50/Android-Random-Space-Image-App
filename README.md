@@ -13,13 +13,17 @@ The following features are completed:
 - [x] App contains a RecyclerView that displays a list of scrollable data
 - [x] App displays two (2) pieces of data for each RecyclerView item
 - [x] Use a downloadable font with custom color and size
-- [x] Modify the theme of the app in `themes.xml`
+- [x] Displays a **TOAST** message when each image is clicked
 - [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 ## Video Demo
 
-Here's a video / GIF that demos all of the app's implemented features:
+Here's a GIF that demos all of the app's implemented features:
 
-![Unit 7 Gif](https://user-images.githubusercontent.com/75146677/232127332-08a4d0ea-398f-4303-a07b-1bfc6b1a4470.gif)
+![Kapture 2023-05-05 at 16 48 37](https://user-images.githubusercontent.com/75146677/236566474-a51355e1-3543-43bf-8b2e-1d5296092d0b.gif)
 
+
+## How to use
+
+- App can be ran through **Android Studio**
 
