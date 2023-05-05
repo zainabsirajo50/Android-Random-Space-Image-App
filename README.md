@@ -2,7 +2,7 @@
 
 ## Summary
 
-**Random Space Image** is an android app that takes information from NASA's APOD API and displays it using a RecyclerView****
+**Random Space Image** is an android app that takes information from **NASA's APOD API** and displays it using a **RecyclerView**
 
 ## Application Features
 
